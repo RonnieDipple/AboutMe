@@ -1,5 +1,7 @@
 package com.example.aboutme
-
+//The big idea about data binding is to create an object that connects/maps/binds two pieces of
+// distant information together at compile time,
+// so that you don't have to look for the data at runtime.
 import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
